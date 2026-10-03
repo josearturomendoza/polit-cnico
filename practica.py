@@ -68,7 +68,10 @@ print(" tu nombre es:",nombre )"""
 num2= int(input("ingrese un numero: "))
 
 suma= num1 + num2
-print(f"la suma de {num1} y {num2} es {suma}")"""
+print(f"la suma de {num1} y {num2} es {suma}")
+a la f se le suele decir forma string
+
+"""
 
 #length
 
@@ -76,3 +79,30 @@ namelen = "longitud"
 
 longituddeletras=len(namelen)
 print(longituddeletras)
+
+#hola
+
+# clase 4 video 1
+
+"""edad = int(input("ingrese su edad :  "))
+
+if edad >= 18:
+        print("sos mayor")
+        
+else:
+        print("sos menor")"""
+        
+edad = int(input("ingrese su edad :  ")) 
+
+if edad >= 18 and edad <=60:
+        print("sos mayor")
+        
+elif edad >= 61 and edad <=90:
+        print("sos muy adulto")
+        
+elif edad >=1 and edad <=18:
+        print("sos menor de edad")
+        
+else:  
+    print("la edad ingresada no es validad")
+            
