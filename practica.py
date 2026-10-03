@@ -92,7 +92,7 @@ if edad >= 18:
 else:
         print("sos menor")"""
         
-edad = int(input("ingrese su edad :  ")) 
+"""edad = int(input("ingrese su edad :  ")) 
 
 if edad >= 18 and edad <=60:
         print("sos mayor")
@@ -104,5 +104,5 @@ elif edad >=1 and edad <=18:
         print("sos menor de edad")
         
 else:  
-    print("la edad ingresada no es validad")
+    print("la edad ingresada no es validad")"""
             
